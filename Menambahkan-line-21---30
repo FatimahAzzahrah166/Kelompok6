@@ -1,0 +1,10 @@
+<h2 align="center">Bahasa Pemprograman</h2>
+      <p align="center"><img src="html.png" width="300"></p>
+      <a href="https://images.app.goo.gl/G7stdcTftQB2twk48"><p align="center">HTML Language</p></a>
+    </div>
+    <div class="col-sm-4" style="background-color: rgb(156, 211, 243);">
+      <h3 align="center">Pengertian HTML</h3>
+      <p>HyperText Markup Language (HTML) merupakan suatu bahasa markah yang digunakan untuk membuat halaman web,
+        menampilkan berbagai informasi di dalam sebuah  browser web. HTML dibuat dengan menggunakan aplikasi
+        pengolah kata dan disimpan dalam format ASCII  sehingga menjadi halaman web dengan perintah-perintah 
+        HTML.
