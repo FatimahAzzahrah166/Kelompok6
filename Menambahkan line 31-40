@@ -1,0 +1,10 @@
+</p>
+      <p>HTML bukanlah bahasa pemrograman, dan itu berarti HTML tidak punya kemampuan untuk membuat
+        fungsionalitas yang dinamis. Sebagai gantinya, HTML memungkinkan user untuk mengorganisir dan
+        memformat dokumen, sama seperti Microsoft Word.
+      </p>
+      
+    </div>
+    <div class="col-sm-4" style="background-color: rgb(187, 165, 238);">
+      <h4 align="center">Fungsi HTML</h4>        
+	    <p align="center"><b>1. Memudahkan Penggunanya</b></P>
