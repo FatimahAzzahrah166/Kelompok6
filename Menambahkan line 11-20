@@ -1,0 +1,10 @@
+<body>
+
+<div class="jumbotron text-center" style="background-color: rgb(167, 184, 184);">
+  <h1><b>HTML WEB</b></h1>
+  <p>Penjelasan Tentang HTML</p> 
+</div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4" style="background-color: rgb(98, 245, 233);">
